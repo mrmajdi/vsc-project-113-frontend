@@ -1,0 +1,10 @@
+// @vsc repo:vsc-project-113-frontend file:src/styles/globals.css task:f6-src-styles-globals-css module:frontend session:113
+@import url('https://fonts.googleapis.com/css2?family=Vazir:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Vazir', system-ui, sans-serif;
+}
